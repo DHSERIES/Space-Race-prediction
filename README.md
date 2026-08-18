@@ -1,3 +1,3 @@
-# Space-Race-prediction
+# Winning Space Race with Data Science
 
-[📄 View the full report (PDF)](./ds-capstone-template-coursera(1).pdf)
+[📄 View the full report](./space-race-report.pdf)
